@@ -1,0 +1,7 @@
+.offices__socials {
+  margin: 0;
+  padding: 0 0 125px 0;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}

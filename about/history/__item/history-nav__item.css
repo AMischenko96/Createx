@@ -1,0 +1,40 @@
+.history-nav__item {
+  margin-bottom: 20px;
+}
+
+.history-nav__btn {
+  position: relative;
+  padding-left: 40px;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 150%;
+  color: #9A9CA5;
+  transition: color 0.3s ease-in-out;
+}
+
+.history-nav__btn:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+
+.history-nav__btn::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 17px;
+  border-radius: 100%;
+  width: 8px;
+  height: 8px;
+  background-color: #9A9CA5;
+}
+
+.history-nav__btn:hover {
+  color: #FF5A30;
+}
+
+:focus {
+  outline: none;
+  color: #FF5A30;
+}

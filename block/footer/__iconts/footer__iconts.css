@@ -1,0 +1,9 @@
+.footer__iconts {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  padding: 0px;
+  gap: 16px;
+
+  list-style-type:none;
+}

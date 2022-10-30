@@ -1,0 +1,13 @@
+.blank__input {
+  box-sizing: border-box;
+
+  width: 415px;
+  height: 44px;
+  margin: 8px 0 20px;
+  background: #F4F5F7;
+  color: #9A9CA5;
+  
+  border: 1px solid #D7DADD;
+  border-radius: 4px;
+  
+}

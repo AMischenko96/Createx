@@ -1,0 +1,11 @@
+.projects__subtitle {
+  margin: 12px 0;
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+
+  text-align: center;
+  color: #787A80;
+}

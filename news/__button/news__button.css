@@ -1,0 +1,19 @@
+.news__button {
+  font-family: 'Ubuntu', sans-serif;
+  width: 205px;
+  height: 46px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 160%;  
+  border: none;
+  background: transparent;  
+  color: #9A9CA5;
+}
+
+.news__button:hover {
+  box-sizing: border-box;
+  border: 1px solid #FF5A30;
+  border-radius: 4px;
+  color: #FF5A30;
+}

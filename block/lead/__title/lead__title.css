@@ -1,0 +1,17 @@
+.lead__title {
+  margin: 0 auto;
+  margin-left: 345px;
+  padding: 0;
+  padding-top: 220px;
+  max-width: 577px;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 130%;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+span {
+  color: #FF5A30;
+}

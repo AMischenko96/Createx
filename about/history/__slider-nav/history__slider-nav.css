@@ -1,0 +1,14 @@
+.history-section__top {
+  position: relative;
+  max-width: 1230px;
+  margin: 0 auto;
+}
+
+.history__slider-nav {
+  top: 135px;
+  right: 10px;
+}
+
+.history__slider-nav__btn {
+  background: #F4F5F7;
+}

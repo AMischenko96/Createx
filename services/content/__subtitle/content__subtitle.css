@@ -1,0 +1,10 @@
+.content__subtitle {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  width: 575px;
+
+  color: #787A80;
+}

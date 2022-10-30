@@ -1,0 +1,9 @@
+.values__icon-box {
+  max-width: 285px;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  position: relative;
+}

@@ -1,0 +1,8 @@
+.world__map {
+  max-width: 1230px;
+  margin: 0 auto;
+  padding: 20px 0 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,12 @@
+.footer__nav {
+  max-width: 1230px;
+  margin: 0 auto;
+  padding-top: 50px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.footer__nav:not(:last-child) {
+  gap: 120px;
+}
+

@@ -1,0 +1,7 @@
+.news__grid {
+  display: grid;
+  grid-template-areas: 
+    "news__block news__block-mini"
+    "news__block news__block-mini-two";
+    gap: 30px;
+}

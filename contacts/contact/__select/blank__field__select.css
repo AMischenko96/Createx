@@ -1,0 +1,10 @@
+.blank__field__select {
+  box-sizing: border-box;
+  width: 285px;
+  height: 52px;
+  margin: 8px 0 20px;
+  background: #F4F5F7;
+  color: #9A9CA5;
+  border: 1px solid #D7DADD;
+  border-radius: 4px;
+}

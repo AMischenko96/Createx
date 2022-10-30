@@ -1,0 +1,19 @@
+.projects__card-info {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position:relative;
+  top:-45px;/*-155 */
+  -moz-transition:1s;
+  -webkit-transition:1s;
+  -o-transition:1s;
+  transition:1s;
+}
+
+.projects__card-info:hover .projects__button {
+  display: block;
+  bottom: -50px;
+  cursor: pointer;
+}
+

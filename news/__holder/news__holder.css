@@ -1,0 +1,10 @@
+.news__holder {
+  max-width: 1230px;
+  margin: 0 auto;
+  padding-bottom: 200px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 30px;
+  row-gap: 60px;
+}

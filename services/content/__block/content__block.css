@@ -1,0 +1,5 @@
+.content__block {
+  display: flex;
+  justify-content: space-between;
+  margin: 120px 0;
+}

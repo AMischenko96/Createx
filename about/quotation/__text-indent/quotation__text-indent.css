@@ -1,0 +1,13 @@
+.quotation__text-indent {
+  max-width: 495px;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 150%;
+
+  padding: 0 105px 60px 135px;
+  margin: 0;
+  
+  color: #1E212C;
+}

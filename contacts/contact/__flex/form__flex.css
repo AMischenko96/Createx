@@ -1,0 +1,6 @@
+.form__flex {
+  padding: 25px 0 0;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+}

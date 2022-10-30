@@ -1,0 +1,14 @@
+.blank__title {
+  margin-top: 48px;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 150%;
+  
+  display: flex;
+  align-items: center;
+  text-align: center;
+    
+  color: #1E212C;
+}

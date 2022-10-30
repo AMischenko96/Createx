@@ -1,0 +1,7 @@
+.projects__load {
+  display: flex;
+  justify-content: center;
+  gap: 17px;
+
+  margin: 60px 0 100px;
+}

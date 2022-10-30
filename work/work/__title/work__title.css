@@ -1,0 +1,12 @@
+.work__title {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 130%;
+  letter-spacing: 1px;
+  color: #1E212C;
+  margin: 0;
+  text-transform: uppercase;
+  margin-top: 40px;
+}

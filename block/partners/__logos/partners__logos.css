@@ -1,0 +1,8 @@
+.partners__logos {
+  display: flex;
+  justify-content: space-between;
+  padding: 40px 0;
+  max-width: 1230px;
+  margin: 0 auto;
+  
+}

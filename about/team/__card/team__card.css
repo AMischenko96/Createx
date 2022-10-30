@@ -1,0 +1,12 @@
+.team__card {
+  position: relative;
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.team__card:hover .team__socials {
+  opacity: 0,8;
+  visibility: visible;
+}

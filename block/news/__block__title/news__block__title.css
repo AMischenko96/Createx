@@ -1,0 +1,15 @@
+.news__block__title {
+  margin: 24px 0 0;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 150%;
+  
+  color: #1E212C;
+}
+
+.news__block__title:hover {
+  color: #FF5A30;
+  cursor: pointer;
+}

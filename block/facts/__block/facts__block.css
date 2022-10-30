@@ -1,0 +1,6 @@
+.facts__block {
+  margin: 60px 0 180px;
+  padding: 0;
+  display: flex;
+  justify-content: space-evenly;
+}

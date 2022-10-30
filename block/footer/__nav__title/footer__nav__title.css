@@ -1,0 +1,13 @@
+.footer__nav__title {
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 150%;
+  margin: 13px 0;
+  /* identical to box height, or 24px */
+  
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+}

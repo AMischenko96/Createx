@@ -1,0 +1,6 @@
+.work-icon__container {
+  max-width: 1230px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}

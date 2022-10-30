@@ -1,0 +1,7 @@
+.history__content {
+  max-width: 1230px;
+  display: flex;
+  justify-content: space-between;
+  padding: 60px 0 100px;
+  margin: 0 auto;
+}

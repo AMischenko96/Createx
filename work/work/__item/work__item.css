@@ -1,0 +1,20 @@
+.work__item {
+  position: relative;
+  list-style-type: none;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  color: #9A9CA5;
+  margin: 0;
+}
+
+.work__item:not(:last-child)::after {
+  margin-right: 22px;
+  content: "/";
+  position: absolute;
+  right: -20px;
+  top: 1px;
+  color: #9A9CA5;
+}

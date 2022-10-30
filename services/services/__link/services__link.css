@@ -1,0 +1,14 @@
+.services__link {
+  margin-left: 15px;
+  text-decoration: none;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  color:  #424551;
+}
+
+.services__link:not([href]) {
+  color: #9A9CA5;
+}

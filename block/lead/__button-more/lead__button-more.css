@@ -1,0 +1,20 @@
+.lead__button-more {
+  color: #fff;
+  background-color: rgba(28,28,28,0);
+  padding: 0 40px;
+  border-radius: 4px;
+  border: 1px solid #fff;
+  margin-right: 24px;
+
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 52px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}

@@ -1,0 +1,6 @@
+.service__boxes {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 auto;
+  max-width: 1230px;
+}

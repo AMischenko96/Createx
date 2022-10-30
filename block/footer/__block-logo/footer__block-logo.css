@@ -1,0 +1,8 @@
+.footer__block-logo {
+  max-width: 386px;
+  padding-top: 80px;
+  margin-right: 0px;
+
+  display: flex;
+  justify-content: space-between;
+}

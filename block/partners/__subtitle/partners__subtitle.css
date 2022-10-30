@@ -1,0 +1,17 @@
+.partners__subtitle {
+  padding: 180px 0 60px;
+  max-width: 1230px;
+  margin: 0 auto;
+  padding-top: 80px;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 46px;
+  line-height: 130%;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #1E212C;
+}

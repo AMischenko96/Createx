@@ -1,0 +1,9 @@
+.text__method {
+  margin-bottom: 25px;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 150%;
+  color: #424551;
+}

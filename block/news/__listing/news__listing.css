@@ -1,0 +1,7 @@
+.news__listing {
+  display: flex;
+  justify-content: space-between;
+  max-width: 350px;
+  padding: 0;
+  margin: 15px 0;
+}

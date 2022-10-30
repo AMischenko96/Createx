@@ -1,0 +1,4 @@
+.lead__content-text {
+  display: block;
+  flex-direction: column;
+}

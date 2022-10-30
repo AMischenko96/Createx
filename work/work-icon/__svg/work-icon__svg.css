@@ -1,0 +1,7 @@
+.work-icon__svg {
+  fill: #FF5A30;
+}
+
+.work-icon__svg:hover svg path {
+  stroke: white;
+}

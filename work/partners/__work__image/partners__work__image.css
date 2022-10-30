@@ -1,0 +1,7 @@
+.partners__work__image {
+  max-width: calc(1230px);
+  position: absolute;
+  top: 12%;
+  right: 25%;
+  left: 55%;
+}

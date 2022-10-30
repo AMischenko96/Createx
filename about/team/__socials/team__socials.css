@@ -1,0 +1,16 @@
+.team__socials {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  border-radius: 0 0 4px 4px;
+  padding: 20px 10px;
+  max-width: 265px;
+  width: 100%;
+  background: #FF5A30;
+  opacity: 0.7;
+  visibility: hidden;
+}

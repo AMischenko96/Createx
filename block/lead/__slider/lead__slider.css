@@ -1,0 +1,5 @@
+.lead__slider {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 30px;
+}

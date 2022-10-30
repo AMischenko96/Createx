@@ -1,0 +1,20 @@
+.projects__card {
+  float: left;
+  max-height: 440px;
+  border: 1px solid #E5E8ED;
+  box-shadow: 0px 5px 10px 0px #c9cdd1;
+  border-radius: 4px;
+}
+
+.projects__card:hover {
+  max-height: 500px;
+}
+
+.projects__card:hover .projects__card-info {
+  top: -100px;
+}
+
+.projects__card:hover .projects__button {
+  display: block;
+  bottom: -50px;
+}

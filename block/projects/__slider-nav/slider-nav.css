@@ -1,0 +1,21 @@
+.slider-nav {
+  position: absolute;
+  top: 210px;
+  right: 10px;
+}
+
+.slider-nav__btn {
+  border-style: none; 
+  background-color: #fff;
+  width: 48px;
+  height: 48px;
+}
+
+.slider-nav__btn:hover {
+  background-color: #FF5A30;
+  border-radius: 50%;
+}
+
+.slider-nav__btn:hover .portfolio-section__arrow {
+  fill: #fff;
+}

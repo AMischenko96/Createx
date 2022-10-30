@@ -1,0 +1,14 @@
+.form-home__input {
+  box-sizing: border-box;
+  background: #F4F5F7;
+  border: 1px solid #D7DADD;
+  border-radius: 4px;
+  color: #9A9CA5;
+  height: 35px;
+  width: 260px;
+  margin-top: 8px;
+}
+
+.form-home__message {
+  width: 414px;
+}

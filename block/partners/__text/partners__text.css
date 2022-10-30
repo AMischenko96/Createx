@@ -1,0 +1,11 @@
+.partners__text {
+  margin: 24px 0;
+  max-width: 600px;
+  font-family: 'Ubuntu', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 160%;
+  
+  color: #424551;
+}

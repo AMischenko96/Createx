@@ -1,0 +1,10 @@
+.service__title {
+  margin: 0 40px 0 0;
+  font-family: 'Ubuntu';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 150%;
+
+  color: #1E212C;
+}

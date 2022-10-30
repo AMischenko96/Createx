@@ -1,0 +1,7 @@
+.footer__up {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin-left: 1446px;
+  top: -50px;
+}

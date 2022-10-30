@@ -20,4 +20,4 @@
 
 ## [Макет в Figma](https://www.figma.com/file/r9RnpJZ6IwYEDAGiymdXBj/YouTube-Createx-Marathon?node-id=0%3A1)
 
-## [Ссылка на проект &rarr;](https://amischenko96.github.io/Createx/)
+## [Ссылка на проект &rarr;](https://amischenko96.github.io/createx/)
